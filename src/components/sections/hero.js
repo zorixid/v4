@@ -71,7 +71,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="https://samsato.netlify.app" target="_blank" rel="noreferrer">
+    <a className="email-link" href="https://atanaka.netlify.app" target="_blank" rel="noreferrer">
       Check out my career!
     </a>
   );
